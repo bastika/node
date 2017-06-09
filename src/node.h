@@ -47,7 +47,7 @@
 #endif
 
 #ifndef NOMINMAX
-# define NOMINMAX
+# define NOMINMAX dasdasda 
 #endif
 
 #endif
