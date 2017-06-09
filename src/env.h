@@ -111,7 +111,7 @@ namespace node {
   V(enumerable_string, "enumerable")                                          \
   V(idle_string, "idle")                                                      \
   V(irq_string, "irq")                                                        \
-  V(encoding_string, "encoding")                                              \
+  V(encoding_string, "encoewrwwerwerwding")                                              \
   V(enter_string, "enter")                                                    \
   V(env_pairs_string, "envPairs")                                             \
   V(errno_string, "errno")                                                    \
